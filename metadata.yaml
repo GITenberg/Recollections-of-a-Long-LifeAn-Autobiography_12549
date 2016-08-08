@@ -1,0 +1,27 @@
+_repo: Recollections-of-a-Long-LifeAn-Autobiography_12549
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cuyler, Theodore L. (Theodore Ledyard)
+    alias: Cuyler, Theodore Ledyard
+    birthdate: 1822
+    deathdate: 1909
+    gutenberg_agent_id: '4421'
+    url: http://www.gutenberg.org/2009/agents/4421
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_L._Cuyler
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Cuyler, Theodore L. (Theodore Ledyard), 1822-1909'
+- !lcsh 'Clergy -- United States -- Biography'
+- GITenberg
+title: 'Recollections of a Long Life: An Autobiography'
+url: http://www.gutenberg.org/ebooks/12549
